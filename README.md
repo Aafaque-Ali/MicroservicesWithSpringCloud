@@ -1,11 +1,11 @@
 # MicroservicesWithSpringCloud
 Implementing microservices using Spring Cloud
 
-### This is one project
+### This is first project
 1) limits-service
 2) spring-cloud-config-server
 
-### This is another project
+### This is second project
 1) naming-server
 2) currency-exchange-service
    Run this service on 2 different ports 8000 and 8001
